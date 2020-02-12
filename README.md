@@ -51,10 +51,11 @@ If like myself, your git folder is not in your drive root, you may run into [err
 
 
 # Author
-Eric Provencher [@prvncher](https://twitter.com/prvncher)
+
 
 Modified from: 
 Furuta, Yusuke ([@tarukosu](https://twitter.com/tarukosu))
+Eric Provencher [@prvncher](https://twitter.com/prvncher)
 
 # License
 MIT
