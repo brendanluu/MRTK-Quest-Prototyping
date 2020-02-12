@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2787809575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0265409d900a8f37f46f5a54bf5144d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicButtonIconHome.mat
+- Assets/MixedRealityToolkit.Services/DiagnosticsSystem/Materials/DiagnosticsInstancedColored.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBox.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_TransparentGray.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_GrabPointerTetherLine.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Wireframe.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Pink.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicBackPlate.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Green.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_TransparentRed.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicBackPlateToggleState.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_DefaultPointerLine.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicBackPlateGrabbed.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/HandIndexTip.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Emerald.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/MRTK_GrabbableDots2RowsV1.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_TransparentLightGray.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBoxLines.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBoxHandleBlue.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_White.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_LightGray.mat
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Materials/5.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Gray.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicButtonIconFontMaterial.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBoxGrabbed.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_LimeDesaturated.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Black.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_PurpleDesaturated.mat
+- Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Art/Materials/New Material.mat
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Materials/Cheese2.mat
+Dependencies:
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_shader0

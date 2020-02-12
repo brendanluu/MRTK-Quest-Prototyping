@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3629067069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27db2a90890b1e8a8179aa2c33e01a6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MouseCursor.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicButtonContentCage.mat
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/EarthCore.fbm/MaterialEarth.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Slider_Default.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Red.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/ColorButtonProximity.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Purple.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_ArticulatedHandMesh.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_DefaultPointerLineNoTarget.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Materials/Shadow.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Materials/PianoKeyWhite.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Cyan.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_FingerTipCursor.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Orange.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_PressableInteractablesButtonBox.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Lime.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/PinchSliderTickMarkMaterial.mat
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Materials/PianoKeys.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_Magenta.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBoxHandleBlueGrabbed.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Occlusion.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Materials/BoundingBoxHandleWhite.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicButtonContentCageProximity.mat
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Materials/MRTK_Standard_TransparentBlue.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicButtonIconPin.mat
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Materials/HolographicBackPlateBorderOnly.mat
+- Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Art/Materials/SkyboxForRealtime_Dark
+  1.mat
+Dependencies:
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_tif0

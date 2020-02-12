@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1700873272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1350d84451f43845a924f76e6c73402
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Textures/IconDot.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Textures/IconHome.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/AppBarDone.png
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Textures/PianoKeys_NM.png
+- Assets/Textures/dotpattern.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/ButtonProfiler.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/AppBarAdjust.png
+- Assets/MixedRealityToolkit/StandardAssets/Textures/DefaultPointerDottedLine.png
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/EarthCore.fbm/5.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/AppBarHide.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/AppBarClose.png
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Textures/PianoKeys_DIF.png
+- Assets/MixedRealityToolkit/StandardAssets/Icons/settings_icon.png
+- Assets/MixedRealityToolkit/StandardAssets/Textures/MouseCursor.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/ButtonHandJoint.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/AppBarShow.png
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Textures/CoffeeFoam.png
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Tree.fbm/5.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/IridescentSpectrum.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/ButtonPin.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/ButtonHandRay.png
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Textures/ButtonHandMesh.png
+Dependencies: []

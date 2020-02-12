@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2209743092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bb29fdb26f55781c482477313ef182f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93dbb0116d26537fee5931eed04f479
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4a1c93114e9437cb75d8b3ee4e0e1ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a794cc45c30a79b4da55bfd426876503, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c33e3b76d6c5c0e48bb3b6ee686c7fd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e7db9a2688ed540af9819c456ba2e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8275efdbe76bdff49a97a8e82fba118d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a1cf5fd47e548e6a23bdd3ddcc00cf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Profiles/QuestCameraProfile.asset
+- Assets/MixedRealityToolkit/StandardAssets/FontsSDFTextures/segoeui SDF.asset
+- Assets/MixedRealityToolkit.SDK/Profiles/DefaultMixedRealityControllerMappingProfile.asset
+- Assets/MixedRealityToolkit.SDK/Profiles/HoloLens2/DefaultHoloLens2HandTrackingProfile.asset
+- Assets/MixedRealityToolkit.SDK/Features/UX/Interactable/Themes/AppBarButtonTextTheme.asset
+Dependencies:
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_shader0

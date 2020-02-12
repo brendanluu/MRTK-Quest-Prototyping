@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3968194929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d2fd3b31b3d0a2ee41bca62cfdd8a1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77da83e0ccec3535a80e51f4911976eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Model_Platonic.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Sliders/Button_Oval_Concave_12x24mm_optimized.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/CoffeeCup.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Cursor_Rest_geo.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Model_Octa.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Models/MRTK_BoundingBox_RotateHandle.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Model_PushButton.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Cheese.fbx
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Models/MRTK_FingerTipCursor.fbx
+- Assets/Models/roman.fbx
+- Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/TeleportCursor.fbx
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle_Slate.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/EarthCore.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Tree.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Cursor_MoveArrows_geo.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Cursor_Press_geo.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Cursor_RotateArrows_geo.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Model_Icosa.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/PianoModel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/PianoKeys.fbx
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Models/MRTK_BoundingBox_ScaleHandle.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/Model_Bucky.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Models/TheModule.fbx
+- Assets/MixedRealityToolkit.SDK/Features/UX/Meshes/Cursors/Cursor_Focus_geo.fbx
+Dependencies:
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/brenk/Documents/GitHub/MRTK-Quest-Prototyping/OVRAssetBundles/OVRMasterBundle/asset_mat2

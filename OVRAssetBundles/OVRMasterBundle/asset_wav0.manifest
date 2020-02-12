@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2577323902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ac19f09780ed4ac034bedab184cd43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/FSharp.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Shell_Click_In.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/BFlat.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/G.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_ButtonPress.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Move_Start.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/E.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Scale_Stop.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/CSharp.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/A.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Slider_Release.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/B.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/EFlat.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Gem.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Move_End.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/F.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Manipulation_Start.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Select_Main.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/GSharp.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/C.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Slider_Grab.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Scale_Start.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Slider_Pass_Notch.wav
+- Assets/MixedRealityToolkit.Examples/StandardAssets/Audio/FullOctave/D.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Rotate_Stop.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Shell_Click_Out.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Manipulation_End.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_ButtonUnpress.wav
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Audio/MRTK_Rotate_Start.wav
+Dependencies: []

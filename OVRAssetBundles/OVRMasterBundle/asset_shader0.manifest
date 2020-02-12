@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3416422018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab3bf6b2622f61fe83543679a82be867
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/MixedRealityToolkit/StandardAssets/Shaders/MixedRealityStandard.shader
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Shaders/FingerTipCursor.shader
+- Assets/MixedRealityToolkit/StandardAssets/Shaders/MixedRealityTextMeshPro.shader
+- Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Art/Shaders/GradientSkybox.shader
+- Assets/MixedRealityToolkit/StandardAssets/Shaders/InstancedColored.shader
+- Assets/MixedRealityToolkit.SDK/StandardAssets/Shaders/HandTriangles.shader
+- Assets/MixedRealityToolkit/StandardAssets/Shaders/MRTK_Wireframe.shader
+Dependencies: []
