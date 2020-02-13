@@ -94,3 +94,4 @@ MSBuildForUnity.Common.props
 Assets/IgnoreExtensions/
 
 Assets/IgnoreExtensions.meta
+External/MixedRealityToolkit-Unity
