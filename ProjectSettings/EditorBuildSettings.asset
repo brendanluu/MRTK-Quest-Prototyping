@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Scenes/brendanHandInteractionExamples.unity
     guid: 85491d282bf55ea42908f365799091d5
+  - enabled: 1
+    path: Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Scenes/brendanHandInteractionSpatial2.unity
+    guid: 7e2246e0b882ffe498cd5adf52c346cf
   m_configObjects: {}
